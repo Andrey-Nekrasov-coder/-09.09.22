@@ -1,0 +1,15 @@
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.csproj.AssemblyReference.cache
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.AssemblyInfoInputs.cache
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.AssemblyInfo.cs
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.csproj.CoreCompileInputs.cache
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\bin\Debug\net6.0\additional task.exe
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\bin\Debug\net6.0\additional task.deps.json
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\bin\Debug\net6.0\additional task.runtimeconfig.json
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\bin\Debug\net6.0\additional task.dll
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\bin\Debug\net6.0\additional task.pdb
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.dll
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\refint\additional task.dll
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.pdb
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\additional task.genruntimeconfig.cache
+C:\Users\Andry\OneDrive\Рабочий стол\Семинары\Знакомство с языкамы (С#)\Урок 4 Дз\additional task\obj\Debug\net6.0\ref\additional task.dll
